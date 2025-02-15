@@ -1,4 +1,4 @@
-
+![download](https://github.com/user-attachments/assets/98f70b62-740c-4654-86f0-e7841a5b1b21)
 
 # 🕒 Digital Clock  
 
@@ -23,9 +23,9 @@ A **modern and stylish Digital Clock** built using **React, HTML, CSS, and JavaS
 
 Here's a preview of the **Digital Clock App**:  
 
-![Digital Clock Preview](![download](https://github.com/user-attachments/assets/b9968e57-7050-42a2-880a-08d4e5cf8323)
-)  
 
+
+![download](https://github.com/user-attachments/assets/dcd7d2cc-4e3c-4653-9b15-e2a6802c586c)
 
 
 ## 🛠️ Technologies Used  
