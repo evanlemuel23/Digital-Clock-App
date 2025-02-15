@@ -1,4 +1,3 @@
-![download](https://github.com/user-attachments/assets/98f70b62-740c-4654-86f0-e7841a5b1b21)
 
 # 🕒 Digital Clock  
 
